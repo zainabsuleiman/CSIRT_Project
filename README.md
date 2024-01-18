@@ -6,9 +6,9 @@ This is source code for Computer Security Incident Response Team API using  Djan
 ## How to run this project
 ### 1. Clone the project
  ```
- git clone https://github.com/jod35/Building-APIS-with-DRF
+ [git clone https://github.com/jod35/Building-APIS-with-DRF](https://github.com/zainabsuleiman/CSIRT_Project.git)
  
- cd Building-APIS-with-DRF
+ cd CSRIT_Project
  ```
 ### 2. Installing the project requirements
 ```
