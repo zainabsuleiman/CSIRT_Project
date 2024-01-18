@@ -1,7 +1,7 @@
 # Building-APIS-with-DRF
 This is source code for Computer Security Incident Response Team API using  Django REST Framework. 
 
-[Playlist is here](https://https://www.youtube.com/playlist?list=PLEt8Tae2spYlosWRH9JDpKNxzb3bSOJGx)
+
 
 ## How to run this project
 ### 1. Clone the project
